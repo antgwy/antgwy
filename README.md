@@ -7,7 +7,7 @@
 * My cnblogs blog: https://www.cnblogs.com/2inf/
 * My Steam page(you need kxsw in China to visit): https://steamcommunity.com/id/wtyang1/
 
-![](https://img.shields.io/badge/license-MIT-FFFFFF.svg)
+![](https://img.shields.io/badge/license-MIT-FFFF00.svg)
 
 <!--
 **2inf/2inf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
