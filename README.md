@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+* My blog(based on hexo): https://2inf.top/
+* My note(based on hugo): https://note.2inf.top/
+* My cnblogs blog: https://www.cnblogs.com/2inf/
+
 <!--
 **2inf/2inf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
