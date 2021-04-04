@@ -7,6 +7,6 @@
 * My cnblogs blog: https://www.cnblogs.com/2inf/
 * My Steam page(you need kxsw in China to visit): https://steamcommunity.com/id/wtyang1/
 
-![](https://img.shields.io/badge/license-MIT-00FF00.svg) &emsp;&emsp; [![](https://img.shields.io/badge/twitter-@wtyang5-blue.svg)](https://twitter.com/wtyang5)
+![](https://img.shields.io/badge/license-MIT-00FF00.svg) &emsp;&emsp; <!--[![](https://img.shields.io/badge/twitter-@wtyang5-blue.svg)](https://twitter.com/wtyang5)-->
 
 [![wtyang's github stats](https://github-readme-stats.vercel.app/api?username=2inf&theme=tokyonight&show_icons=true&line_height=30)](https://github.com/2inf)
