@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-&emsp;&emsp;😄 I am an undergraduate student in an ordinary University in China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am broadly interested in **Indie Game**, Quadratic Element and a bit of Combinatorics. In addition, I am a rubbish in Competitive Programming. 🤔
+&emsp;&emsp;😄 I am an undergraduate student in an ordinary University in China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I am broadly interested in **Indie Game**, ACG culture and a bit of Combinatorics. In addition, I am a trash in Competitive Programming. 🤔
 
 * My blog(based on hexo): https://2inf.top/
 * My note(based on hugo): https://note.2inf.top/
